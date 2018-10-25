@@ -1,0 +1,8 @@
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\bin\Debug\RealTimeCharts.exe.config
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\bin\Debug\RealTimeCharts.exe
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\bin\Debug\RealTimeCharts.pdb
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\obj\Debug\RealTimeCharts.Form1.resources
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\obj\Debug\RealTimeCharts.Properties.Resources.resources
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\obj\Debug\RealTimeCharts.csproj.GenerateResource.Cache
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\obj\Debug\RealTimeCharts.exe
+c:\users\coba\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\obj\Debug\RealTimeCharts.pdb
